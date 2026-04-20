@@ -1,0 +1,5 @@
+## Why ProScan?
+
+This project was built to understand how network scanners work internally, including host discovery, port scanning techniques, and service fingerprinting.
+
+It focuses on clarity and learning rather than replicating full-scale tools.
