@@ -19,10 +19,10 @@ ProScan is a Python-based network scanner for host discovery, port scanning, ser
 ## Usage
 
 ```bash
-python3 proscan.py -t 192.168.1.1
-python3 proscan.py -t 192.168.1.0/24
-python3 proscan.py -t 192.168.1.1 -p 1-1000
-python3 proscan.py -t 192.168.1.1 --fast
+python3 proscan.py -t IP
+python3 proscan.py -t IP/24 (subnet)
+python3 proscan.py -t IP -p 1-1000
+python3 proscan.py -t IP --fast
 ```
 
 ## Disclaimer
